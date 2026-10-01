@@ -1,0 +1,6 @@
+{
+  "name": "BellaUnhas - Agendamento & Gestão para Manicure",
+  "description": "Sistema completo e elegante para agendamento online de manicure e nail designer com painel administrativo exclusivo da profissional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
